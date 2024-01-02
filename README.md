@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ## About me  
   
 
-- I am currently pursuing a B.Tech in Computer Science and Biosciences at IIITD. I am also a Jio Code Intern 2023 at Jio Platforms Limited. I am passionate about Android development. As a team leader for various college clubs and our college's cultural fest, I've developed strong project management skills and a knack for problem-solving. I always seek new challenges and believe in continuous learning and improvement.
+- I am currently pursuing a B.Tech in Computer Science and Biosciences at IIITD. I also worked as a Jio Code Intern 2023 at Jio Platforms Limited. I am passionate about Android development. As a team leader for various college clubs and our college's cultural fest, I've developed strong project management skills and a knack for problem-solving. I always seek new challenges and believe in continuous learning and improvement.
+Looking forward to connecting with like-minded professionals and exploring new opportunities.
 
   
 
